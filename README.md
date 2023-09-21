@@ -1,5 +1,5 @@
 # Projeto Trybers and Dragons
-Este projeto foi desenvolvido durante o curso de Desenvolvimento Web na Trybe em Agosto de 2023.
+Este projeto foi desenvolvido durante o curso de Desenvolvimento Web na Trybe em Setembro de 2023.
 
 # Conhecimentos técnicos utilizados:
 * TypeScript
